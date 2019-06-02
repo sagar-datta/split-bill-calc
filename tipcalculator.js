@@ -19,6 +19,9 @@ function calculateTip() {
 
     // actual math calculations for tip
     var total = (billtot * tipamt) / numOfPeople;
+    var billonly = billtot / numOfPeople;
+
+    total += billonly;
     // round total to 2dp
     total = Math.round(total * 100) / 100;
     // present it in format for representing money (2dp)
