@@ -1,22 +1,45 @@
-#container {
-    height: 42%;
+  #container {
+    height: 60%;
     width: 50%;
     margin: 200px auto;
     background: #40B3A2;
     border-radius: 100px;
     text-align: center;
   }
-body {
+  body {
       background: #C38D9D;
   }
 
-h1 {
+  h1 {
     font-family: 'Bungee Shade', cursive;
     text-transform: uppercase;
     font-size: 50px;
     text-align: center;
   }
 
-#calculator, #totaltip {
+  #calculator, #totaltip {
     font-family: 'Bungee', cursive;
   }
+  button {
+    font-family: 'Bungee', cursive;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin: 30px auto;
+    border-radius: 5px;
+    width: 150px;
+    font-size: 17px;
+    background: #40B3A2;
+    border-color: #111;
+  }
+  
+  button:hover {
+    background: #C38D9D;
+    border-color: #40B3A2;
+  }
+  
+  button:active {
+    position: relative;
+    top: 2px;
+  }
+
