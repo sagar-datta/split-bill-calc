@@ -6,4 +6,4 @@
 - It asks for the total bill amount, percentage the user wishes to tip and the amount of people sharing the bill.
 - It then calculates the amount each person should contribute to evenly split the bill
 
-> [https://sagar-datta.github.io/tip-calc/](https://sagar-datta.github.io/tip-calc/)
+> [https://sagar-datta.github.io/split-bill-calc/](https://sagar-datta.github.io/split-bill-calc/)
