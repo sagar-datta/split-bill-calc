@@ -1,5 +1,5 @@
   #container {
-    height: 55%;
+    height: 58%;
     width: 50%;
     margin: 200px auto;
     background: #40B3A2;
@@ -32,14 +32,9 @@
     margin: 30px auto;
     border-radius: 5px;
     width: 150px;
-    font-size: 17px;
-    background: #40B3A2;
+    font-size: 20px;
+    background: white;
     border-color: #111;
-  }
-  
-  button:hover {
-    background: #C38D9D;
-    border-color: #40B3A2;
   }
   
   button:active {
@@ -49,8 +44,30 @@
 
   #billtot {
     font-family: 'Bungee', cursive;
-    width: 170px;
-    font-size: 20px;
+    width: 130px;
+    font-size: 15px;
+    text-align: center;
+    background: #111;
+    border-color: #111;
+    color: white;
+    border-radius: 100px;
+  }
+
+  #tipamt {
+    font-family: 'Bungee', cursive;
+    width: 80px;
+    font-size: 15px;
+    text-align: center;
+    background: #111;
+    border-color: #111;
+    color: white;
+    border-radius: 100px;
+  }
+
+  #participants {
+    font-family: 'Bungee', cursive;
+    width: 190px;
+    font-size: 15px;
     text-align: center;
     background: #111;
     border-color: #111;
