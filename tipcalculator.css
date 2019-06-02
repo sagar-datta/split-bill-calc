@@ -49,7 +49,12 @@
 
   #billtot {
     font-family: 'Bungee', cursive;
-    width: 135px;
+    width: 170px;
     font-size: 20px;
+    text-align: center;
+    background: #111;
+    border-color: #111;
+    color: white;
+    border-radius: 100px;
   }
 
