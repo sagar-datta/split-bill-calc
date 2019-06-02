@@ -17,8 +17,12 @@
     text-align: center;
   }
 
-  #calculator, #totaltip {
+  #calculator{
     font-family: 'Bungee', cursive;
+  }
+  #totaltip {
+    font-family: 'Bungee', cursive;
+    font-size: 25px;
   }
   button {
     font-family: 'Bungee', cursive;
