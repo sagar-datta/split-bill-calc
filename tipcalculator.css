@@ -1,11 +1,18 @@
 #container {
-    height: 50%;
+    height: 40%;
     width: 50%;
     margin: 200px auto;
-    background: #CAA9FB;
+    background: #40B3A2;
     border-radius: 100px;
     text-align: center;
   }
   body {
-      background: #686868;
+      background: #C38D9D;
+  }
+
+  h1 {
+    font-family: 'Bungee Shade', cursive;
+    text-transform: uppercase;
+    font-size: 50px;
+    text-align: center;
   }
