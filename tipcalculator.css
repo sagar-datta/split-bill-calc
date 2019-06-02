@@ -1,5 +1,5 @@
   #container {
-    height: 60%;
+    height: 55%;
     width: 50%;
     margin: 200px auto;
     background: #40B3A2;
@@ -45,5 +45,11 @@
   button:active {
     position: relative;
     top: 2px;
+  }
+
+  #billtot {
+    font-family: 'Bungee', cursive;
+    width: 135px;
+    font-size: 20px;
   }
 
